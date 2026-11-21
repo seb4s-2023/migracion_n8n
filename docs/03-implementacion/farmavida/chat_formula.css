@@ -1,0 +1,8 @@
+/* FARMAVIDA - chat_formula.css: estilos del botón 📎 y de las tarjetas de fórmula */
+#chat-adjuntar{background:none;border:none;font-size:1.3rem;cursor:pointer;padding:0 8px}
+#chat-adjuntar:disabled{opacity:.5;cursor:default}
+.msg-formula .formula-fila{border-top:1px solid #e5e5e5;padding:8px 0;font-size:.9rem}
+.msg-formula .formula-aviso{color:#9a5b00;font-size:.85rem}
+.msg-formula .formula-nota{font-size:.75rem;color:#666;margin-top:8px}
+.btn-formula{margin:6px 6px 0 0;padding:6px 10px;border:none;border-radius:6px;background:#1b7f5c;color:#fff;cursor:pointer;font-size:.82rem}
+.btn-formula:disabled{opacity:.6;cursor:default}

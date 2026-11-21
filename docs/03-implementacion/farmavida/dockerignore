@@ -1,0 +1,9 @@
+.env
+.git
+.gitignore
+prueba_*.php
+listar_modelos.php
+resumen_ventas.php
+crear_admin.php
+limpiar_datos_ejemplo.sql
+*.sql

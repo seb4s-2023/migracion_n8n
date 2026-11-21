@@ -1,0 +1,6 @@
+.env
+*.sql
+prueba_*.php
+listar_modelos.php
+resumen_ventas.php
+crear_admin.php

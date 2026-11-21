@@ -1,0 +1,6 @@
+Options -Indexes
+
+# Nunca servir archivos sensibles
+<FilesMatch "^(\.env.*|.*\.sql|.*\.md)$">
+  Require all denied
+</FilesMatch>
